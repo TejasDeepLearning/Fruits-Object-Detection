@@ -16,7 +16,6 @@ I'd like to give credit to the following link for helping me through this projec
 [YOLOv5 object detection](https://youtu.be/GRtgLlwxpc4)
 
 ## Results
-[Object Detection Results Video](https://www.youtube.com/watch?v=inWlWBaetF8)
 
 ![Orange](orange_95.jpg)
 ![Apple](apple_84.jpg)
